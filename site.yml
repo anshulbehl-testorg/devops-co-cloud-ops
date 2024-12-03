@@ -1,0 +1,5 @@
+---
+- name: Example playbook
+  hosts: localhost
+  roles:
+    - role: devops_co.cloud_operations.run
